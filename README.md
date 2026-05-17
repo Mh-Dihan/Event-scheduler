@@ -1,28 +1,53 @@
-# MeetCraft
+# 🚀 MeetCraft
 
-MeetCraft is a modern event management dashboard for planning events, tasks, vendors, meetings, payments, reports, inbox messages, and support requests. Built with React, Vite, and a lightweight Node.js backend, it helps teams organize event workflows in one clean workspace.
+<p align="center">
+  <img src="./assets/banner.png" />
+</p>
 
-## Tech Stack
+<p align="center">
+  Event Management Platform built with Next.js & Node.js
+</p>
 
-- React
-- Vite
-- Node.js
-- Lucide React
-- Recharts
+---
 
-## Run Locally
+## ✨ Features
+
+- 🔐 Authentication
+- 📅 Event Management
+- 💬 Real-time Chat
+- 📊 Dashboard Analytics
+- 🤖 AI Suggestions
+
+---
+
+## 🛠 Tech Stack
+
+| Frontend | Backend | Database |
+|----------|----------|-----------|
+| Next.js | Express | MongoDB |
+| Tailwind | Node.js | Redis |
+
+---
+
+## 📂 Project Structure
 
 ```bash
-npm install
-npm run dev
+src/
+ ├── components/
+ ├── pages/
+ ├── lib/
+ ├── hooks/
+ └── styles/
 ```
 
-In another terminal, run the backend:
+---
 
-```bash
-npm run dev:backend
-```
+## 🌐 Live Demo
 
-Frontend: `http://127.0.0.1:5173`
+[Visit Website](https://yourproject.com)
 
-Backend: `http://127.0.0.1:5050`
+---
+
+## 👨‍💻 Author
+
+Made with by Dihan
